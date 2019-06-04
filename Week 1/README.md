@@ -9,4 +9,8 @@ This first week course, we will be focusing on the Evolution of Artificial Intel
 
     b. Artificial General Intelligence
 
-2. Artificial Superintelligence
+    c. Artificial Super Intelligence
+
+2. Human Brain/Neuroscience
+
+    http://www.brainfacts.org/core-concepts
